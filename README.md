@@ -1,2 +1,2 @@
 # BankCard
-This is a repository for BankCard using POOP
+This is a repository for BankCard using POOP(Intermediate)
